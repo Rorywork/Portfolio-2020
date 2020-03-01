@@ -6,7 +6,9 @@ import PortfolioList from "./PortfolioList"
 const App = () => {
 
   return (
-    <div>
+
+
+    <div className="ui relaxed divided list">
       <PortfolioList />
     </div>
   );

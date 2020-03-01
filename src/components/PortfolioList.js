@@ -1,22 +1,43 @@
+import "./PortfolioList.css";
 import React from "react";
+import kissAndMakeup from "../images/kiss-and-makeup.PNG";
+import pokemonMaster from "../images/pokemon-master.PNG";
+import theShadows from "../images/the-shadows.PNG";
+import quotepad from "../images/quotepad.PNG";
 import PortfolioItem from "./PortfolioItem"
 
 
 const PortfolioList = () => {
 
     return (
-        <div>
+        <div className="ui relaxed divided list portfolio-list">
             <PortfolioItem
                 title="Kiss and Makeup"
-                imageSrc="https://images.pexels.com/photos/3706707/pexels-photo-3706707.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-                description="This is a website for my portfolio"
+                imgSrc={kissAndMakeup}
+                imgAlt="Asian bridal website"
+                desc="This is a website for my portfolio"
                 code="https://github.com/Rorywork/kiss-and-makeup"
             />
             <PortfolioItem
                 title="Pokemon Master"
-                imageSrc="https://images.pexels.com/photos/3793689/pexels-photo-3793689.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-                description="This is a different project"
+                imgSrc={pokemonMaster}
+                imgAlt="Api based Pokemon game"
+                desc="This is a different project"
                 code="https://github.com/Rorywork/pokemon-master"
+            />
+            <PortfolioItem
+                title="The Shadows"
+                imgSrc={theShadows}
+                imgAlt="Flask Photography website"
+                desc="Flask Photography website"
+                code="https://github.com/Rorywork/The-Shadows"
+            />
+            <PortfolioItem
+                title="Quotepad"
+                imgSrc={quotepad}
+                imgAlt="Django Full stack website"
+                desc="Django Full stack website"
+                code="https://github.com/Rorywork/bquotepad"
             />
         </div>
     );
