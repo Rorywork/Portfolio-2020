@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolio-2020/static/css/main.b5905523.chunk.css",
+    "main.js": "/portfolio-2020/static/js/main.5553741d.chunk.js",
+    "main.js.map": "/portfolio-2020/static/js/main.5553741d.chunk.js.map",
+    "runtime-main.js": "/portfolio-2020/static/js/runtime-main.bb0a96ad.js",
+    "runtime-main.js.map": "/portfolio-2020/static/js/runtime-main.bb0a96ad.js.map",
+    "static/js/2.3cf12bac.chunk.js": "/portfolio-2020/static/js/2.3cf12bac.chunk.js",
+    "static/js/2.3cf12bac.chunk.js.map": "/portfolio-2020/static/js/2.3cf12bac.chunk.js.map",
+    "index.html": "/portfolio-2020/index.html",
+    "precache-manifest.74484247084f2b92e0b878cf9c347158.js": "/portfolio-2020/precache-manifest.74484247084f2b92e0b878cf9c347158.js",
+    "service-worker.js": "/portfolio-2020/service-worker.js",
+    "static/css/main.b5905523.chunk.css.map": "/portfolio-2020/static/css/main.b5905523.chunk.css.map",
+    "static/js/2.3cf12bac.chunk.js.LICENSE.txt": "/portfolio-2020/static/js/2.3cf12bac.chunk.js.LICENSE.txt",
+    "static/media/kiss-and-makeup.PNG": "/portfolio-2020/static/media/kiss-and-makeup.bc508a4d.PNG",
+    "static/media/pokemon-master.PNG": "/portfolio-2020/static/media/pokemon-master.0a72d68f.PNG",
+    "static/media/quotepad.PNG": "/portfolio-2020/static/media/quotepad.0e6fd312.PNG",
+    "static/media/roryCV.pdf": "/portfolio-2020/static/media/roryCV.7e297652.pdf",
+    "static/media/the-shadows.PNG": "/portfolio-2020/static/media/the-shadows.1105c2c1.PNG",
+    "static/media/warcraft.PNG": "/portfolio-2020/static/media/warcraft.5910ae89.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb0a96ad.js",
+    "static/js/2.3cf12bac.chunk.js",
+    "static/css/main.b5905523.chunk.css",
+    "static/js/main.5553741d.chunk.js"
+  ]
+}
