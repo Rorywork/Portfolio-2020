@@ -34,7 +34,7 @@ const PortfolioList = () => {
                 imgAlt="Flask Photography website"
                 desc="Flask Photography website"
                 code="https://github.com/Rorywork/The-Shadows"
-                tech={["HTML", "CSS", "Javascript", "Python", "Flask", "Bootstrap", "MongoDB"]}
+                tech={["HTML", "CSS", "Javascript", "Python", "Flask", "MongoDB"]}
             />
             <PortfolioItem
                 title="Quotepad"
@@ -42,7 +42,7 @@ const PortfolioList = () => {
                 imgAlt="Django Full stack website"
                 desc="Django Full stack website"
                 code="https://github.com/Rorywork/bquotepad"
-                tech={["HTML", "CSS", "Javascript", "Python", "Django", "Bootstrap", "MySql"]}
+                tech={["HTML", "CSS", "Javascript", "Python", "Django", "MySql"]}
             />
             <PortfolioItem
                 title="Warcraft"

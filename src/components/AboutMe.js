@@ -6,8 +6,9 @@ const AboutMe = () => {
     return (
         <div className="about-me">
             <h1>I'm Rory</h1>
-            <p>Web developer based in Bournemouth, UK.</p>
-            <p>07810760451</p>
+            <p>A web developer based in Bournemouth, UK</p>
+            <p className="call"> Call me.</p>
+            <p className="phone">07810760451</p>
         </div>
     )
 

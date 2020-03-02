@@ -5,7 +5,7 @@ const Button = ({ type, href }) => {
 
     return (
         <div>
-            <a className="button" href={href}>
+            <a className="button" href={href} target="_blank">
                 <i class={`fab fa-${type}`}></i>
             </a>
         </div >
