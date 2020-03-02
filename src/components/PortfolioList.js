@@ -5,6 +5,7 @@ import pokemonMaster from "../images/pokemon-master.PNG";
 import theShadows from "../images/the-shadows.PNG";
 import quotepad from "../images/quotepad.PNG";
 import warcraft from "../images/warcraft.PNG";
+import bgsuns from "../images/bgsuns.PNG";
 import PortfolioItem from "./PortfolioItem"
 
 
@@ -51,6 +52,14 @@ const PortfolioList = () => {
                 desc="Built using SASS and JS"
                 code="https://rorywork.github.io/wow-interface/"
                 tech={["HTML", "CSS", "Javascript", "SASS"]}
+            />
+            <PortfolioItem
+                title="Sports Club Video Player"
+                imgSrc={bgsuns}
+                imgAlt="BG Suns Video Player"
+                desc="Built using SASS and JS"
+                code="https://rorywork.github.io/wow-interface/"
+                tech={["React", "HTML", "CSS", "Youtube API"]}
             />
         </div>
     );
