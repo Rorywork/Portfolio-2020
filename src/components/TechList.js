@@ -1,3 +1,4 @@
+import "./TechList.css";
 import React from "react";
 import TechItem from "./TechItem";
 
@@ -8,7 +9,7 @@ const TechList = (tech) => {
     })
 
     return (
-        <div>
+        <div className="tech-list">
             {renderedList}
         </div>
     );

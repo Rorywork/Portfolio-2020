@@ -26,7 +26,7 @@ const PortfolioList = () => {
                 imgAlt="Api based Pokemon game"
                 desc="This is a different project"
                 code="https://github.com/Rorywork/pokemon-master"
-                tech={["Gordon", "CSS", "Jesus"]}
+                tech={["HTML", "CSS", "Bootstrap Grid", "Javascript", "PokeAPI"]}
             />
             <PortfolioItem
                 title="The Shadows"
@@ -34,7 +34,7 @@ const PortfolioList = () => {
                 imgAlt="Flask Photography website"
                 desc="Flask Photography website"
                 code="https://github.com/Rorywork/The-Shadows"
-                tech={["HTML", "CSS", "Bootstrap"]}
+                tech={["HTML", "CSS", "Javascript", "Python", "Flask", "Bootstrap", "MongoDB"]}
             />
             <PortfolioItem
                 title="Quotepad"
@@ -42,7 +42,7 @@ const PortfolioList = () => {
                 imgAlt="Django Full stack website"
                 desc="Django Full stack website"
                 code="https://github.com/Rorywork/bquotepad"
-                tech={["HTML", "CSS", "Bootstrap"]}
+                tech={["HTML", "CSS", "Javascript", "Python", "Django", "Bootstrap", "MySql"]}
             />
             <PortfolioItem
                 title="Warcraft"
@@ -50,7 +50,7 @@ const PortfolioList = () => {
                 imgAlt="Wow Interface"
                 desc="Built using SASS and JS"
                 code="https://rorywork.github.io/wow-interface/"
-                tech={["HTML", "CSS", "Bootstrap"]}
+                tech={["HTML", "CSS", "Javascript", "SASS"]}
             />
         </div>
     );

@@ -1,9 +1,10 @@
+import "./TechItem.css";
 import React from "react";
 
 const TechItem = (tech) => {
 
     return (
-        <div>{tech.tech}</div>
+        <h5 className="techItem">{tech.tech}</h5>
     )
 
 
