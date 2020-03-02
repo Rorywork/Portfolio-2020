@@ -1,15 +1,19 @@
 import React from "react";
-import PortfolioList from "./PortfolioList"
+import PortfolioList from "./PortfolioList";
+import AboutMe from "./AboutMe";
 
 
 
 const App = () => {
 
   return (
-
-
-    <div className="ui relaxed divided list">
-      <PortfolioList />
+    <div>
+      <div>
+        <AboutMe />
+      </div>
+      <div className="ui relaxed divided list">
+        <PortfolioList />
+      </div>
     </div>
   );
 }
