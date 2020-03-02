@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/Portfolio-2020/static/css/main.b5905523.chunk.css",
-    "main.js": "/Portfolio-2020/static/js/main.581c84a6.chunk.js",
-    "main.js.map": "/Portfolio-2020/static/js/main.581c84a6.chunk.js.map",
+    "main.css": "/Portfolio-2020/static/css/main.f1370489.chunk.css",
+    "main.js": "/Portfolio-2020/static/js/main.2cf56649.chunk.js",
+    "main.js.map": "/Portfolio-2020/static/js/main.2cf56649.chunk.js.map",
     "runtime-main.js": "/Portfolio-2020/static/js/runtime-main.165a47f3.js",
     "runtime-main.js.map": "/Portfolio-2020/static/js/runtime-main.165a47f3.js.map",
-    "static/js/2.3cf12bac.chunk.js": "/Portfolio-2020/static/js/2.3cf12bac.chunk.js",
-    "static/js/2.3cf12bac.chunk.js.map": "/Portfolio-2020/static/js/2.3cf12bac.chunk.js.map",
+    "static/js/2.45bf504e.chunk.js": "/Portfolio-2020/static/js/2.45bf504e.chunk.js",
+    "static/js/2.45bf504e.chunk.js.map": "/Portfolio-2020/static/js/2.45bf504e.chunk.js.map",
     "index.html": "/Portfolio-2020/index.html",
-    "precache-manifest.bc3fd8009069470ef6a92ea4507dd3cd.js": "/Portfolio-2020/precache-manifest.bc3fd8009069470ef6a92ea4507dd3cd.js",
+    "precache-manifest.b8407aa0f77cc988df57c9552336d07d.js": "/Portfolio-2020/precache-manifest.b8407aa0f77cc988df57c9552336d07d.js",
     "service-worker.js": "/Portfolio-2020/service-worker.js",
-    "static/css/main.b5905523.chunk.css.map": "/Portfolio-2020/static/css/main.b5905523.chunk.css.map",
-    "static/js/2.3cf12bac.chunk.js.LICENSE.txt": "/Portfolio-2020/static/js/2.3cf12bac.chunk.js.LICENSE.txt",
+    "static/css/main.f1370489.chunk.css.map": "/Portfolio-2020/static/css/main.f1370489.chunk.css.map",
+    "static/js/2.45bf504e.chunk.js.LICENSE.txt": "/Portfolio-2020/static/js/2.45bf504e.chunk.js.LICENSE.txt",
+    "static/media/bgsuns.PNG": "/Portfolio-2020/static/media/bgsuns.cb75665a.PNG",
     "static/media/kiss-and-makeup.PNG": "/Portfolio-2020/static/media/kiss-and-makeup.bc508a4d.PNG",
     "static/media/pokemon-master.PNG": "/Portfolio-2020/static/media/pokemon-master.0a72d68f.PNG",
     "static/media/quotepad.PNG": "/Portfolio-2020/static/media/quotepad.0e6fd312.PNG",
@@ -21,8 +22,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.165a47f3.js",
-    "static/js/2.3cf12bac.chunk.js",
-    "static/css/main.b5905523.chunk.css",
-    "static/js/main.581c84a6.chunk.js"
+    "static/js/2.45bf504e.chunk.js",
+    "static/css/main.f1370489.chunk.css",
+    "static/js/main.2cf56649.chunk.js"
   ]
 }
