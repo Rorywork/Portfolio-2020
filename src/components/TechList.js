@@ -2,9 +2,9 @@ import "./TechList.css";
 import React from "react";
 import TechItem from "./TechItem";
 
-const TechList = (tech) => {
+const TechList = ({ tech }) => {
 
-    const renderedList = tech.tech.map(techItem => {
+    const renderedList = tech.map(techItem => {
         return <TechItem tech={techItem} />;
     })
 

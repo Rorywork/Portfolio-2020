@@ -16,7 +16,7 @@ const PortfolioList = () => {
                 title="Kiss and Makeup"
                 imgSrc={kissAndMakeup}
                 imgAlt="Asian bridal website"
-                desc="This is a website for my portfolio"
+                desc="A stylish marketing website"
                 code="https://github.com/Rorywork/kiss-and-makeup"
                 tech={["HTML", "CSS", "Bootstrap", "Jquery"]}
             />

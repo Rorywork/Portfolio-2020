@@ -1,5 +1,6 @@
 import React from "react";
 import PortfolioList from "./PortfolioList";
+import ButtonList from "./ButtonList";
 import AboutMe from "./AboutMe";
 
 
@@ -10,6 +11,9 @@ const App = () => {
     <div>
       <div>
         <AboutMe />
+      </div>
+      <div>
+        <ButtonList />
       </div>
       <div className="ui relaxed divided list">
         <PortfolioList />
