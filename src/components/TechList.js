@@ -10,7 +10,7 @@ const TechList = ({ tech, code }) => {
 
     return (
         <div className="tech-list">
-            <a className="item-code" onClick={() => { window.open(code) }} target="_blank" rel="noopener noreferrer" >View Code</a>
+            <button className="item-code" onClick={() => { window.open(code) }} target="_blank" rel="noopener noreferrer" >View Code</button>
             {renderedList}
         </div>
     );
