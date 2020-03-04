@@ -8,7 +8,7 @@ const AboutMe = () => {
             <h1 className="rory-about">RORY</h1>
             <p>A web developer based in Bournemouth, UK</p>
             <p className="call"> Call me.</p>
-            <p className="phone">07810760451</p>
+            <p className="phone">07810 760 451</p>
         </div>
     )
 
