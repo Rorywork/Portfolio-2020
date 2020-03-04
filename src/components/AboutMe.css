@@ -1,13 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Lora|Montserrat&display=swap');
+
+.rory-about {
+    font-family: 'Montserrat';
+}
+
 .about-me {
+    font-family: 'Lora', serif;
     text-align: center;
     padding: 25px;
+    /* background-color: rgb(76, 136, 141); */
+    background-color: #364958;
+    color: rgb(255, 255, 255);
+    font-weight: 200;
 }
 
 .call {
-    font-weight: 900;
+    font-weight: 500;
+    font-family: 'Montserrat';
 
 }
 
 .phone {
-    font-weight: 900;
+    font-weight: 500;
+    font-family: 'Montserrat';
 }

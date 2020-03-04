@@ -1,10 +1,13 @@
 .portfolio-item {
     display: inline-block;
-    border: 2px solid black;
+    border: 2px solid rgb(129, 125, 125);
+    border-radius: 10px;
     text-align: center;
     margin: 10px;
-    background-color: lightgrey;
+    /* background-color: lightgrey; */
+    background-color: rgba(21, 121, 99, 0.089);
     position: relative;
+    color: rgb(0, 0, 0);
 }
 
 .portfolio-item:hover {
@@ -34,6 +37,7 @@
     opacity: 0;
     transition: .5s ease;
     background-color: rgb(0, 0, 0);
+    border-radius: 10px;
   }
 
   .text {
@@ -52,6 +56,7 @@
     font-weight: 300;
     padding-top: 10px;
     padding-bottom: 10px;
+    
 }
 
 .item-code{
