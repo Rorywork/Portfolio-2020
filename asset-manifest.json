@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Portfolio-2020/static/css/main.ec4e240d.chunk.css",
+    "main.css": "/Portfolio-2020/static/css/main.67686f7a.chunk.css",
     "main.js": "/Portfolio-2020/static/js/main.ef2aa04c.chunk.js",
     "main.js.map": "/Portfolio-2020/static/js/main.ef2aa04c.chunk.js.map",
     "runtime-main.js": "/Portfolio-2020/static/js/runtime-main.165a47f3.js",
@@ -8,9 +8,9 @@
     "static/js/2.56f26a00.chunk.js": "/Portfolio-2020/static/js/2.56f26a00.chunk.js",
     "static/js/2.56f26a00.chunk.js.map": "/Portfolio-2020/static/js/2.56f26a00.chunk.js.map",
     "index.html": "/Portfolio-2020/index.html",
-    "precache-manifest.9fb45a9049ee95b4049c88b03d40c726.js": "/Portfolio-2020/precache-manifest.9fb45a9049ee95b4049c88b03d40c726.js",
+    "precache-manifest.e02b2353053d9fc6fed325e036d2700f.js": "/Portfolio-2020/precache-manifest.e02b2353053d9fc6fed325e036d2700f.js",
     "service-worker.js": "/Portfolio-2020/service-worker.js",
-    "static/css/main.ec4e240d.chunk.css.map": "/Portfolio-2020/static/css/main.ec4e240d.chunk.css.map",
+    "static/css/main.67686f7a.chunk.css.map": "/Portfolio-2020/static/css/main.67686f7a.chunk.css.map",
     "static/js/2.56f26a00.chunk.js.LICENSE.txt": "/Portfolio-2020/static/js/2.56f26a00.chunk.js.LICENSE.txt",
     "static/media/bgsuns.PNG": "/Portfolio-2020/static/media/bgsuns.cb75665a.PNG",
     "static/media/kiss-and-makeup.PNG": "/Portfolio-2020/static/media/kiss-and-makeup.bc508a4d.PNG",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.165a47f3.js",
     "static/js/2.56f26a00.chunk.js",
-    "static/css/main.ec4e240d.chunk.css",
+    "static/css/main.67686f7a.chunk.css",
     "static/js/main.ef2aa04c.chunk.js"
   ]
 }
